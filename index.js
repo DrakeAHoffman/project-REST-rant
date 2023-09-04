@@ -1,10 +1,11 @@
 
-const app = require()
+
+
 // Modules and Globals
 require('dotenv').config()
 const express = require('express')
 const methodOverride = require('method-override')
-
+const app = require()
 
 // Express Settings
 app.set('views', __dirname + '/views')
